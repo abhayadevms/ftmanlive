@@ -4,7 +4,7 @@ Design and implementation of a Django application with User and ActivityPeriod m
 
 
 ## Live View of App:
-#### Json Rsponse: https://manftlive.herokuapp.com/
+#### Data in Json : https://manftlive.herokuapp.com/
 #### API View : https://manftlive.herokuapp.com/status/
 
 
