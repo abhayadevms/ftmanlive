@@ -27,3 +27,4 @@ class Command(BaseCommand):
                     UserActivity.objects.create(start_time=fake.date_time(), end_time=fake.date_time()))
 
         self.stdout.write(self.style.SUCCESS('successfully Added member!'))
+ 
