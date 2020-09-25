@@ -19,5 +19,7 @@ Design and implementation of a Django application with User and ActivityPeriod m
  ```it will create 10 user and random activity periods```
  
  ## Requirements
+ 
+ ```requirements.txt```
 
 
