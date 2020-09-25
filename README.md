@@ -19,9 +19,5 @@ Design and implementation of a Django application with User and ActivityPeriod m
  ```it will create 10 user and random activity periods```
  
  ## Requirements
- 
- python 3.8.6
- django 3.1
- re
 
 
