@@ -23,6 +23,10 @@ Design and implementation of a Django application with User and ActivityPeriod m
  
  ```it will create 10 user and random activity periods```
  
+## Instructions
+Insert your SECRET_KEY in settings.py file to run on localserver:
+SECRET_KEY = 'insert your SECRET_key'
+ 
  
     
 
