@@ -7,21 +7,23 @@ Design and implementation of a Django application with User and ActivityPeriod m
 #### Data in Json : https://manftlive.herokuapp.com/
 #### API View : https://manftlive.herokuapp.com/status/
 
-
-## To add dummy Data
-
-> run command:
-
- ``` python manage.py dummyseed no of user ```
- 
-``` eg: python manages.py dummyseed 10```
- 
- ```it will create 10 user and random activity periods```
- 
- ## Requirements
+## Requirements
  
     - python 3.8.6
  
-    -requirements.txt
+    - requirements.txt
+
+## To add dummy Data
+
+> **run command:**
+
+ ``` python manage.py dummyseed no of user ```
+ 
+``` eg: --python manages.py dummyseed 10--```
+ 
+ ```it will create 10 user and random activity periods```
+ 
+ 
+    
 
 
