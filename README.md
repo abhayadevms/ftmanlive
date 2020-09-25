@@ -8,7 +8,7 @@ Design and implementation of a Django application with User and ActivityPeriod m
 #### API View : https://manftlive.herokuapp.com/status/
 
 
-## to add dummy Data
+## To add dummy Data
 
 > run command:
 
