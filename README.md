@@ -26,8 +26,14 @@ Design and implementation of a Django application with User and ActivityPeriod m
 ## Instructions
 Insert your SECRET_KEY in settings.py file to run on localserver:
 SECRET_KEY = 'insert your SECRET_key'
+
+ ## Links for files
  
- 
+API CREATION : https://github.com/abhayadevms/ftmanlive/tree/master/ManApi/RestApi
+
+Models : https://github.com/abhayadevms/ftmanlive/blob/master/ManApi/models.py
+
+custom management command :https://github.com/abhayadevms/ftmanlive/tree/master/ManApi/management
     
 
 
