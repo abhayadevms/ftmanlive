@@ -20,6 +20,8 @@ Design and implementation of a Django application with User and ActivityPeriod m
  
  ## Requirements
  
- ```requirements.txt```
+    - python 3.8.6
+ 
+ ``` -requirements.txt```
 
 
